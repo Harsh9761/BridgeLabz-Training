@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class centimeterToFeet {
+public class CentimeterToFeet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double h = sc.nextDouble();

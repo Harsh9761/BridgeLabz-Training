@@ -1,4 +1,4 @@
-public class volOfEarth {
+public class VolOfEarth {
     public static void main(String[] args) {
         double r = 6378;
         double ans =(4*22*r*r*r)/21;

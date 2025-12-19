@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class studentFee {
+public class StudentFee {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int fee = sc.nextInt();

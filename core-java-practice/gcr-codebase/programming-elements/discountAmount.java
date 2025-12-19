@@ -1,4 +1,4 @@
-public class discountAmount {
+public class DiscountAmount {
     public static void main(String[] args) {
         double fee = 125000;
         // double dispercent = 10;
