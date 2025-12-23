@@ -21,3 +21,17 @@
   Programs demonstrating single and multi-dimensional arrays, including operations like storing marks, calculating BMI, bonuses, reversing numbers, FizzBuzz, finding max/second max, and digit frequency..
   **Path:**
   [core-java-practice/gcr-codebase/arrays](core-java-practice/gcr-codebase/arrays)
+
+  ## 📅 Week 2 (22 Dec 2025 – 26 Dec 2025)- 
+
+- **22-Dec-2025 (Monday):**
+  Completed string-related programs using charAt(), arrays, and user-defined methods.
+  Implemented exception handling concepts with practical examples and proper error handling.
+  **Path:**
+  [core-java-practice/gcr-codebase/strings](core-java-practice/gcr-codebase/strings)
+
+- **23-Dec-2025 (Tuesday):**
+  Completed the string assignment, including programs for string manipulation, frequency calculation, and palindrome checks.
+
+  **Path:**
+  [core-java-practice/gcr-codebase/strings](core-java-practice/gcr-codebase/strings)
