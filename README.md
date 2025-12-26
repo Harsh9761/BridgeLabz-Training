@@ -56,6 +56,7 @@
 
   - **26-Dec-2025 (Friday):**
   All method-based Java assignment codes have been completed. Extra String questions are also done.
+  and the given scenario based questions are also done.
 
   **Path:**
   [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
