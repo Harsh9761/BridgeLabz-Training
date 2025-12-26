@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UnitConverter {
+class UnitConverterTest {
 
 	public static double convertKmToMiles(double km){
 		double km2miles = 0.621371;
@@ -21,23 +21,23 @@ public class UnitConverter {
 
 }
 
-class UnitConverterTest{
+public class UnitConverter{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter kilometers: ");
         double km = sc.nextDouble();
-        System.out.println("Miles: " + UnitConverter.convertKmToMiles(km));
+        System.out.println("Miles: " + UnitConverterTest.convertKmToMiles(km));
 
         System.out.print("Enter miles: ");
         double miles = sc.nextDouble();
-        System.out.println("Kilometers: " + UnitConverter.convertMilesToKm(miles));
+        System.out.println("Kilometers: " + UnitConverterTest.convertMilesToKm(miles));
 
         System.out.print("Enter meters: ");
         double meters = sc.nextDouble();
-        System.out.println("Feet: " + UnitConverter.convertMeterToFeet(meters));
+        System.out.println("Feet: " + UnitConverterTest.convertMeterToFeet(meters));
 
         System.out.print("Enter feet: ");
         double feet = sc.nextDouble();
-        System.out.println("Meters: " + UnitConverter.convertFeetToMeter(feet));
+        System.out.println("Meters: " + UnitConverterTest.convertFeetToMeter(feet));
 	}
 }

@@ -1,5 +1,5 @@
 import java.util.*;
-public class UnitConverterTwo {
+class UnitConverterT {
 	public static double YardsToFeet(double yards) {
         double yards2feet = 3;
         return yards * yards2feet;
@@ -21,24 +21,24 @@ public class UnitConverterTwo {
         return inches * inches2cm;
     }
 }
-class UnitConvertDemo{
+public class UnitConverterTwo{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Yards: ");
 		double yards = sc.nextDouble();
-        System.out.println("Feet: " + UnitConverterTwo.YardsToFeet(yards));
+        System.out.println("Feet: " + UnitConverterT.YardsToFeet(yards));
         
         System.out.println("Enter feets: ");
         double feets = sc.nextDouble();
-        System.out.println("Yard: "+UnitConverterTwo.FeetToYards(feets));
+        System.out.println("Yard: "+UnitConverterT.FeetToYards(feets));
         
         System.out.print("Enter meters: ");
         double meters = sc.nextDouble();
-        System.out.println("Inches: " + UnitConverterTwo.MetersToInches(meters));
+        System.out.println("Inches: " + UnitConverterT.MetersToInches(meters));
 
         System.out.print("Enter inches: ");
         double inches = sc.nextDouble();
-        System.out.println("Meters: " + UnitConverterTwo.InchesToMeters(inches));
-        System.out.println("Centimeters: " + UnitConverterTwo.InchesToCentimeters(inches));
+        System.out.println("Meters: " + UnitConverterT.InchesToMeters(inches));
+        System.out.println("Centimeters: " + UnitConverterT.InchesToCentimeters(inches));
 	}
 }
