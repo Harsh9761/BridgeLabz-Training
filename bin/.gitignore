@@ -1,10 +1,6 @@
-/StringPalindrome.class
-/RemoveDuplicate.class
-/LongestWord.class
-/subStringCount.class
-/ToggleCase.class
-/compareString.class
-/MostFrequentCharacter.class
-/RemoveElementOccurence.class
-/AnagramCheck.class
-/WordReplace.class
+/BoothManager.class
+/CoffeeCounter.class
+/MayaBmiTracker.class
+/MetroFareCharge.class
+/DistanceTracker.class
+/LuckyDraw.class
