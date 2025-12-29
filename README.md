@@ -47,7 +47,6 @@
   **Path:**
   [core-java-practice/gcr-codebase/strings](core-java-practice/gcr-codebase/strings)
 
-
 - **24-Dec-2025 (Wednesday):**
   All method-based Java assignment codes have been completed. Each program demonstrates different methods and their usage.
   Two Scenario Based Questions are also done.
@@ -56,7 +55,6 @@
   **Path:**
   [core-java-practice/gcr-codebase/methods](core-java-practice/gcr-codebase/methods)
 
-
 - **26-Dec-2025 (Friday):**
   All method-based Java assignment codes have been completed. Extra String questions are also done.
   and the given scenario based questions are also done.
@@ -64,3 +62,9 @@
   
   **Path:**
   [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
+
+  ## 📅 Week 3 (29 Dec 2025 – 03 Dec 2026)-
+
+- **29-Dec-2025 (Monday):**
+  The extra string questions have been completed successfully.
+  The timezone-related questions have also been completed.
