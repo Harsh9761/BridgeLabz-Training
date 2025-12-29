@@ -24,7 +24,7 @@ public class EmployeeWageComputation {
 					System.out.println("Full Time Present");
 					break;
 				case 2:
-					dailyHours = 8;
+					dailyHours = 4;
 					System.out.println("Part Time Present");
 					break;
 				default:
@@ -40,7 +40,6 @@ public class EmployeeWageComputation {
 			totalWage += dailyWage;
 			
 			System.out.println("Daily Wage: " + dailyWage);
-            System.out.println("----------------------------");
 		}
 		
 		System.out.println("Total Working Days: " + totalDays);
