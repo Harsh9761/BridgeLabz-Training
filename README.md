@@ -30,7 +30,7 @@
   **Path:**
   [core-java-practice/gcr-codebase/arrays](core-java-practice/gcr-codebase/arrays)
 
-  ## 📅 Week 2 (22 Dec 2025 – 26 Dec 2025)- 
+## 📅 Week 2 (22 Dec 2025 – 26 Dec 2025)- 
 
 - **22-Dec-2025 (Monday):**
   Completed string-related programs using charAt(), arrays, and user-defined methods.
@@ -63,8 +63,10 @@
   **Path:**
   [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
 
-  ## 📅 Week 3 (29 Dec 2025 – 03 Dec 2026)-
+## 📅 Week 3 (29 Dec 2025 – 03 Dec 2026)-
 
 - **29-Dec-2025 (Monday):**
   The extra string questions have been completed successfully.
   The timezone-related questions have also been completed.
+  Four Scenario based questions are also completed.
+  Employee Wage Problem also completed.
