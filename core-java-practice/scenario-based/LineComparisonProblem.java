@@ -1,19 +1,34 @@
-
+import java.util.*;
 public class LineComparisonProblem {
 
 	public static void main(String[] args) {
-		
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Welcome to Line Comparison Computation Program");
+		System.out.println("Enter Line 1 coordinates: ");
+		System.out.println("Enter x coordinate: ");
+		double x1 = sc.nextDouble();
 		
-		double x1 = 5;
-		double y1 = 6;
-		double x2 = 7;
-		double y2 = 10;
+		System.out.println("Enter y coordinate: ");
+		double y1 = sc.nextDouble();
 		
-		double x3 = 5;
-		double y3 = 8;
-		double x4 = 7;
-		double y4 = 11;
+		System.out.println("Enter x coordinate: ");
+		double x2 = sc.nextDouble();
+		
+		System.out.println("Enter y coordinate: ");
+		double y2 = sc.nextDouble();
+		
+		System.out.println("Enter Line 1 coordinates: ");
+		System.out.println("Enter x coordinate: ");
+		double x3 = sc.nextDouble();
+		
+		System.out.println("Enter y coordinate: ");
+		double y3 = sc.nextDouble();
+		
+		System.out.println("Enter x coordinate: ");
+		double x4 = sc.nextDouble();
+		
+		System.out.println("Enter y coordinate: ");
+		double y4 = sc.nextDouble();
 		
 		Double line1Length = getLength(x1,y1,x2,y2);
 		Double line2Length = getLength(x3,y3,x4,y4);
