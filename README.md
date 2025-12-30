@@ -78,3 +78,7 @@
 - **30-Dec-2025 (Tuesday):**
   Line Comparison Problem completed.
   Snake Ladder problem completed.
+
+
+  **Path:**
+  [core-java-practice/scenario-based](core-java-practice/scenario-based)
