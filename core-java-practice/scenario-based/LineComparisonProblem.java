@@ -17,7 +17,7 @@ public class LineComparisonProblem {
 		System.out.println("Enter y coordinate: ");
 		double y2 = sc.nextDouble();
 		
-		System.out.println("Enter Line 1 coordinates: ");
+		System.out.println("Enter Line 2 coordinates: ");
 		System.out.println("Enter x coordinate: ");
 		double x3 = sc.nextDouble();
 		
@@ -61,9 +61,7 @@ public class LineComparisonProblem {
 			System.out.println("Line 1 is greater than Line 2");
 		} else if(result < 0) {
 			System.out.println("Line 1 is lesser than Line 2");
-		} else {
-			System.out.println("Both Lines are Equal");
-		}
+		} 
 	}
 
 }
