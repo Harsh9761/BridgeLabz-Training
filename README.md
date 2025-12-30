@@ -70,3 +70,11 @@
   The timezone-related questions have also been completed.
   Four Scenario based questions are also completed.
   Employee Wage Problem also completed.
+
+
+  **Path:**
+  [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
+
+- **30-Dec-2025 (Tuesday):**
+  Line Comparison Problem completed.
+  Snake Ladder problem completed.
