@@ -78,6 +78,7 @@
 - **30-Dec-2025 (Tuesday):**
   Line Comparison Problem completed.
   Snake Ladder problem completed.
+  Objects and Classes basics assignment done.
 
 
   **Path:**
