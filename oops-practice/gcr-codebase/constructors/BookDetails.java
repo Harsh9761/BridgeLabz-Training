@@ -1,11 +1,17 @@
 import java.util.*;
-public class BookDetails {
-	
+
+class Book{
 	String title;
 	String author;
 	double price;
 	
-	public BookDetails(String title,String author,double price) {
+	public Book() {
+        title = "Unknown";
+        author = "Unknown";
+        price = 0.0;
+    }
+
+	public Book(String title,String author,double price) {
 		this.title = title;
 		this.author = author;
 		this.price = price;
@@ -18,6 +24,11 @@ public class BookDetails {
 		System.out.println("Author of the book: "+author);
 		System.out.println("Price of the book: "+price);
 	}
+}
+
+public class BookDetails {
+	
+	
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -31,7 +42,7 @@ public class BookDetails {
 		System.out.println("Enter Price of the book: ");
 		double price = sc.nextDouble();
 		
-		BookDetails book = new BookDetails(title,author,price);
+		Book book = new Book(title,author,price);
 		book.DisplayDetails();
 	}
 
