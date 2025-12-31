@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry excluding="gcr-codebase/class_object/|gcr-codebase/class_object/|gcr-codebase/constructors/|gcr-codebase/constructors/" kind="src" path="oops-practice"/>
-	<classpathentry kind="src" path="oops-practice/gcr-codebase/constructors"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
