@@ -32,7 +32,7 @@ public class BookDetails {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter details of the book: ");
+		System.out.println("Enter given details of the book : ");
 		System.out.println("Enter Title of the book: ");
 		String title = sc.nextLine();
 		
