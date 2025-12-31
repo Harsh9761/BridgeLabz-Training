@@ -85,4 +85,4 @@
   [core-java-practice/scenario-based](core-java-practice/scenario-based)
 
 - **30-Dec-2025 (Tuesday):**
-  Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.
+  Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
