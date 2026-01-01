@@ -43,25 +43,13 @@
 - **23-Dec-2025 (Tuesday):**
   Completed the string assignment, including programs for string manipulation, frequency calculation, and palindrome checks.
 
-
-  **Path:**
-  [core-java-practice/gcr-codebase/strings](core-java-practice/gcr-codebase/strings)
-
 - **24-Dec-2025 (Wednesday):**
   All method-based Java assignment codes have been completed. Each program demonstrates different methods and their usage.
   Two Scenario Based Questions are also done.
 
-
-  **Path:**
-  [core-java-practice/gcr-codebase/methods](core-java-practice/gcr-codebase/methods)
-
 - **26-Dec-2025 (Friday):**
   All method-based Java assignment codes have been completed. Extra String questions are also done.
   and the given scenario based questions are also done.
-
-  
-  **Path:**
-  [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
 
 ## 📅 Week 3 (29 Dec 2025 – 03 Dec 2026)-
 
@@ -71,18 +59,13 @@
   Four Scenario based questions are also completed.
   Employee Wage Problem also completed.
 
-
-  **Path:**
-  [core-java-practice/gcr-codebase/extras](core-java-practice/gcr-codebase/extras)
-
 - **30-Dec-2025 (Tuesday):**
   Line Comparison Problem completed.
   Snake Ladder problem completed.
   Objects and Classes basics assignment done.
 
-
-  **Path:**
-  [core-java-practice/scenario-based](core-java-practice/scenario-based)
-
-- **30-Dec-2025 (Tuesday):**
+- **31-Dec-2025 (Wednesday):**
   Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
+
+- **01-jan-2026 (Thursday):**
+  codes of the static,final and instanceof keyword are successfully implemented.
