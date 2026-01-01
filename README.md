@@ -48,4 +48,4 @@
   Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
 
 - **01-jan-2026 (Thursday):**
-  codes of the static,final and instanceof keyword are successfully implemented.
+  codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
