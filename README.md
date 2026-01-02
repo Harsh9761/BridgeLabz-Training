@@ -31,7 +31,7 @@
   All method-based Java assignment codes have been completed. Extra String questions are also done.
   and the given scenario based questions are also done.
 
-## 📅 Week 3 (29 Dec 2025 – 03 Dec 2026)-
+## 📅 Week 3 (29 Dec 2025 – 03 Jan 2026)-
 
 - **29-Dec-2025 (Monday):**
   The extra string questions have been completed successfully.
@@ -49,3 +49,6 @@
 
 - **01-jan-2026 (Thursday):**
   codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
+
+  **02-jan-2026 (Friday):**
+  OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
