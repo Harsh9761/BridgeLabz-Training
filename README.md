@@ -50,5 +50,5 @@
 - **01-jan-2026 (Thursday):**
   codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
 
-  **02-jan-2026 (Friday):**
+- **02-jan-2026 (Friday):**
   OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
