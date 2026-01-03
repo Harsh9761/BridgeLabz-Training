@@ -52,3 +52,6 @@
 
 - **02-jan-2026 (Friday):**
   OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
+
+- **03-jan-2026 (Saturday):**
+  All types of inheritence problems are successfully implemented and completed. Four Scenario based questions are also added.
