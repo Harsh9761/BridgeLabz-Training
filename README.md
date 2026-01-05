@@ -55,3 +55,8 @@
 
 - **03-jan-2026 (Saturday):**
   All types of inheritence problems are successfully implemented and completed. Four Scenario based questions are also added.
+
+## 📅 Week 3 (05 Jan 2026 – 09 Jan 2026)-
+
+- **05-jan-2026 (Monday):**
+  Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.
