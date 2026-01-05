@@ -59,4 +59,4 @@
 ## 📅 Week 3 (05 Jan 2026 – 09 Jan 2026)-
 
 - **05-jan-2026 (Monday):**
-  Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.
+  Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.
