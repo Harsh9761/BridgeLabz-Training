@@ -6,8 +6,13 @@ public class LibraryManagementSystem {
 
 	static boolean[] isAvailable = {true, true, true, true, true};
 	
+	static List<Integer> bookList = new ArrayList<>();
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		for (int i = 0; i < titles.length; i++) {
+            bookList.add(i);
+        }
 		System.out.println("All bookDetails :");
 		displayBooks();
 		
@@ -17,7 +22,11 @@ public class LibraryManagementSystem {
 		
 		System.out.println("Enter title of book to be checked out");
 		String title = sc.next();
-		withdrawBook(title);
+		try {
+            withdrawBook(title);
+        } catch (BookNotAvailableException e) {
+            System.out.println(e.getMessage());
+        }
 
 	}
 	
@@ -30,8 +39,8 @@ public class LibraryManagementSystem {
 		}
 	}
 	
-	public static void withdrawBook(String title) {
-		for(int i = 0;i < title.length();i++) {
+	public static void withdrawBook(String title) throws BookNotAvailableException{
+		for(int i = 0;i < titles.length;i++) {
 			if(titles[i].equalsIgnoreCase(title)) {
 				isAvailable[i] = false;
 				System.out.println("Book checkedout successfully.");
@@ -44,21 +53,29 @@ public class LibraryManagementSystem {
 		System.out.println("Book not found.");
 	}
 	
-	public static void searchBook(String keyword) {
+	public static void searchBook(String keyword){
 		boolean found = false;
-		for(int i = 0;i < titles.length;i++) {
-			if(titles[i].toLowerCase().contains(keyword)) {
-				found = true;
-				System.out.print("Title is: "+titles[i]+" ");
-				System.out.print("authors is: "+authors[i]+" ");
-				System.out.print("isAvailable : "+(isAvailable[i]?"Available" : "Checked Out"));
-				System.out.println();
-			}
-			
-		}
-		if (!found) {
-            System.out.println("No books found with title containing: " + keyword);
+
+        for (int i : bookList) {
+            if (titles[i].toLowerCase().contains(keyword.toLowerCase())) {
+                found = true;
+                System.out.println(
+                    "Title: " + titles[i] +
+                    " | Author: " + authors[i] +
+                    " | Status: " + (isAvailable[i] ? "Available" : "Checked Out")
+                );
+            }
+        }
+
+        if (!found) {
+            System.out.println("No books found with keyword: " + keyword);
         }
 	}
 
+}
+
+class BookNotAvailableException extends Exception {
+    BookNotAvailableException(String msg) {
+        super(msg);
+    }
 }
