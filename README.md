@@ -63,3 +63,6 @@
 
 - **06-jan-2026 (Tuesday):**
   Two LeetCode problems have been successfully solved, focusing on problem-solving. Additionally, four scenario-based questions were implemented to demonstrate practical application of concepts.The solutions emphasize clean code, proper logic, and real-world use cases.This work reflects consistent practice and hands-on learning in programming fundamentals.
+
+- **07-jan-2026 (Wednesday):**
+  Two LeetCode problems have been successfully solved, focusing on problem-solving. Ride Management System: Simulates real-world ride booking with driver assignment, dynamic fare calculation using polymorphism, and exception handling.
