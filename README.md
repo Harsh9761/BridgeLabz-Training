@@ -66,3 +66,6 @@
 
 - **07-jan-2026 (Wednesday):**
   Two LeetCode problems have been successfully solved, focusing on problem-solving. Ride Management System: Simulates real-world ride booking with driver assignment, dynamic fare calculation using polymorphism, and exception handling.
+
+- **08-jan-2026 (Thursday):**
+  Implemented multiple real-world data structure problems using linked lists, including circular and doubly linked lists for scheduling, reservation, and editor features.Practiced CRUD operations, traversal, searching, and pointer management with clean, exam-ready Java implementations.
