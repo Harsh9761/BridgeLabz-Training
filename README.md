@@ -69,3 +69,6 @@
 
 - **08-jan-2026 (Thursday):**
   Implemented multiple real-world data structure problems using linked lists, including circular and doubly linked lists for scheduling, reservation, and editor features.Practiced CRUD operations, traversal, searching, and pointer management with clean, exam-ready Java implementations.
+
+- **09-jan-2026 (Friday):**
+  Designed and implemented Vehicle Rental and Hospital Management systems using Java, applying OOP principles like inheritance, interfaces, encapsulation, and CRUD operations.Built a Flight Booking System using arrays and lists with case-insensitive search, booking, cancellation, and booking history to simulate real-world workflows
