@@ -72,3 +72,8 @@
 
 - **09-jan-2026 (Friday):**
   Designed and implemented Vehicle Rental and Hospital Management systems using Java, applying OOP principles like inheritance, interfaces, encapsulation, and CRUD operations.Built a Flight Booking System using arrays and lists with case-insensitive search, booking, cancellation, and booking history to simulate real-world workflows
+
+## 📅 Week 5 (12 Jan 2026 – 17 Jan 2026)-
+
+- **12-jan-2026 (Monday):**
+  Designed and analyzed scenario-based Java applications by mapping real-world problems to OOP concepts, interfaces, polymorphism, and exception handling.Focused on defining entities, workflows, and error cases for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.
