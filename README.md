@@ -71,7 +71,7 @@
   Implemented multiple real-world data structure problems using linked lists, including circular and doubly linked lists for scheduling, reservation, and editor features.Practiced CRUD operations, traversal, searching, and pointer management with clean, exam-ready Java implementations.
 
 - **09-jan-2026 (Friday):**
-  Designed and implemented Vehicle Rental and Hospital Management systems using Java, applying OOP principles like inheritance, interfaces, encapsulation, and CRUD operations.Built a Flight Booking System using arrays and lists with case-insensitive search, booking, cancellation, and booking history to simulate real-world workflows
+  Designed and implemented Vehicle Rental and Hospital Management systems using Java, applying OOP principles like inheritance, interfaces, encapsulation, and CRUD operations.Built a Flight Booking System using arrays and lists with case-insensitive search, booking, cancellation, and booking history to simulate real-world workflows.
 
 ## 📅 Week 5 (12 Jan 2026 – 17 Jan 2026)-
 
@@ -83,3 +83,9 @@
 
 - **14-jan-2026 (Wednesday):**
   Basic assignment completed covering HashMap, Stack, and Queue concepts.Includes implementation and problem-solving using fundamental operations.
+
+- **15-jan-2026 (Thursday):**
+  Implementations of sorting algorithms such as Bubble, Insertion, Selection, Count, Merge, Heap, and Quick Sort.These programs are written to strengthen understanding of sorting techniques and their working logic.
+
+- **15-jan-2026 (Friday):**
+  Sorting Algorithms assigment successfully completed.
