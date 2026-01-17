@@ -91,3 +91,4 @@
   Sorting Algorithms assigment successfully completed and StringBuilder and String buffer assignment codes added.
 
 - **17-jan-2026 (Saturday):**
+  Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.
