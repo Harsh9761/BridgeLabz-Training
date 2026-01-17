@@ -87,5 +87,7 @@
 - **15-jan-2026 (Thursday):**
   Implementations of sorting algorithms such as Bubble, Insertion, Selection, Count, Merge, Heap, and Quick Sort.These programs are written to strengthen understanding of sorting techniques and their working logic.
 
-- **15-jan-2026 (Friday):**
-  Sorting Algorithms assigment successfully completed.
+- **16-jan-2026 (Friday):**
+  Sorting Algorithms assigment successfully completed and StringBuilder and String buffer assignment codes added.
+
+- **17-jan-2026 (Saturday):**
