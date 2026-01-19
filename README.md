@@ -96,4 +96,5 @@
 ## 📅 Week 6 (19 Jan 2026 – 23 Jan 2026)-
 
 - **19-jan-2026 (Monday):**
-  AddressBook problem assignment successfully implemented and completed
+  AddressBook problem assignment successfully implemented and completed. Algorithm's Runtime Analysis & Big-O Notation
+  successfully completed.
