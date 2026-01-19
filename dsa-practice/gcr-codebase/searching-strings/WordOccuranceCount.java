@@ -2,7 +2,7 @@ import java.io.*;
 public class WordOccuranceCount {
 
 	public static void main(String[] args) {
-		String filePath = "sample.txt";
+		String filePath = "C:\\Users\\dimpl\\Desktop\\BridgeLabz-Training\\dsa-practice\\gcr-codebase\\algorithm-analysis\\sample.txt";
         String findWord = "harsh";
         int count = 0;
 

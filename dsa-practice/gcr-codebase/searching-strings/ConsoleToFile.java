@@ -2,7 +2,7 @@ import java.io.*;
 public class ConsoleToFile {
 
 	public static void main(String[] args) {
-		String filePath = "output.txt";
+		String filePath = "C:\\Users\\dimpl\\Desktop\\BridgeLabz-Training\\dsa-practice\\gcr-codebase\\algorithm-analysis\\sample.txt";
 
         try {
             InputStreamReader isr = new InputStreamReader(System.in);

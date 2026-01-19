@@ -4,7 +4,7 @@ import java.nio.charset.StandardCharsets;
 public class ByteToCharStream {
 
 	public static void main(String[] args) {
-		String filePath = "filename.txt";
+		String filePath = "C:\\Users\\dimpl\\Desktop\\BridgeLabz-Training\\dsa-practice\\gcr-codebase\\algorithm-analysis\\sample.txt";
 
         try {
             FileInputStream fis = new FileInputStream(filePath);
