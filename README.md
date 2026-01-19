@@ -92,3 +92,8 @@
 
 - **17-jan-2026 (Saturday):**
   Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.
+
+## 📅 Week 6 (19 Jan 2026 – 23 Jan 2026)-
+
+- **19-jan-2026 (Monday):**
+  AddressBook problem assignment successfully implemented and completed
