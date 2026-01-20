@@ -98,3 +98,6 @@
 - **19-jan-2026 (Monday):**
   AddressBook problem assignment successfully implemented and completed. Algorithm's Runtime Analysis & Big-O Notation
   successfully completed.
+
+- **20-jan-2026 (Tuesday):**
+  Generics assignments codes are successfully completed and added,DSA Scenario-based questions assignment also implemented and added. Two leetcode solutions added.
