@@ -101,3 +101,6 @@
 
 - **20-jan-2026 (Tuesday):**
   Generics assignments codes are successfully completed and added,DSA Scenario-based questions assignment also implemented and added. Two leetcode solutions added.
+
+- **21-jan-2026 (Wednesday):**
+  Collections assignments codes added. ArrayList ,Stack, Queue, hashmap concepts implemented successfully. Leetcode questions added.
