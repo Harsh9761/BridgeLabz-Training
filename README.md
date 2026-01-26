@@ -104,3 +104,9 @@
 
 - **21-jan-2026 (Wednesday):**
   Collections assignments codes added. ArrayList ,Stack, Queue, hashmap concepts implemented successfully. Leetcode questions added.
+
+- **22-jan-2026 (Thursday):**
+  Collections assignments codes added and Collections real world applications codes added.
+  
+- **23-jan-2026 (Friday):**
+  Java Streams assignment codes successfully implemented and added.
