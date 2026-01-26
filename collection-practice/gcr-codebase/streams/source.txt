@@ -1,0 +1,28 @@
+File handling is one of the most important concepts in Java programming. It allows a program to store data
+permanently on a storage device such as a hard disk. Without file handling, all data would be lost once 
+the program stops running. Java provides powerful classes inside the java.io package to perform file operations 
+like reading, writing, updating, and deleting files.
+
+A file is a collection of data stored under a specific name in a storage medium. In Java, files can be handled 
+in the form of bytes or characters. Byte-based streams are used to handle binary data such as images, audio files, 
+and videos, whereas character-based streams are used to handle text data. For reading and writing raw byte data, 
+Java provides FileInputStream and FileOutputStream classes.
+
+The FileInputStream class is used to read data from a file byte by byte. It reads data until it reaches the end of 
+the file, which is indicated by the value -1. On the other hand, FileOutputStream is used to write data into a file. 
+If the destination file does not exist, it is created automatically. If the file already exists, its contents may be 
+overwritten depending on how the stream is opened.
+
+Exception handling plays a very important role in file handling. Since file operations involve external resources, 
+there is always a chance of errors such as file not found, permission issues, or input/output failures. To handle such 
+situations, Java uses checked exceptions like IOException and FileNotFoundException. These exceptions must be handled 
+using try-catch blocks or declared using the throws keyword.
+
+Resource management is another critical aspect of file handling. Streams opened during file operations must be closed 
+after use to avoid memory leaks. Traditionally, this was done using the finally block to ensure that resources are closed 
+whether an exception occurs or not. From Java 7 onwards, the try-with-resources statement was introduced, which automatically 
+closes resources once the operation is complete.
+
+File handling is widely used in real-world applications such as logging systems, report generation, configuration management, 
+and data storage. Understanding how to read and write files efficiently is essential for any Java developer. By mastering file 
+handling concepts, developers can build applications that are more reliable, efficient, and capable of handling persistent data effectively.
