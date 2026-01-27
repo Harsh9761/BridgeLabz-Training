@@ -114,4 +114,4 @@
 ## 📅 Week 7 (27 Jan 2026 – 31 Jan 2026)-
 
 - **27-jan-2026 (Tuesday):**
-  Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.
+  Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.Two LeetCode problems have been successfully solved.
