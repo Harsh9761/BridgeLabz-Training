@@ -110,3 +110,8 @@
   
 - **23-jan-2026 (Friday):**
   Java Streams assignment codes successfully implemented and added.
+
+## 📅 Week 7 (27 Jan 2026 – 31 Jan 2026)-
+
+- **27-jan-2026 (Tuesday):**
+  Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.
