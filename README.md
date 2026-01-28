@@ -115,3 +115,6 @@
 
 - **27-jan-2026 (Tuesday):**
   Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.Two LeetCode problems have been successfully solved.
+
+- **28-jan-2026 (Wednesday):**
+  Flip Key Problem implemented and added. Scenario based questions added. Regex Assignments codes are added.
