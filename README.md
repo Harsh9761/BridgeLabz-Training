@@ -118,3 +118,11 @@
 
 - **28-jan-2026 (Wednesday):**
   Flip Key Problem implemented and added. Scenario based questions added. Regex Assignments codes are added.
+
+- **29-jan-2026 (Thursday):**
+  Assignment demonstrating the use of regular expressions for pattern matching and input validation in Java is added.
+  It covers common regex use cases such as emails, passwords, numbers, and text extraction.
+
+- **30-jan-2026 (Friday):**
+  Assignment focusing on implementing unit tests using JUnit to validate core Java logic and functionality is added.
+  It covers exception handling, parameterized tests, lifecycle methods, and basic validation scenarios.
