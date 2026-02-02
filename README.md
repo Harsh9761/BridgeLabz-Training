@@ -111,7 +111,7 @@
 - **23-jan-2026 (Friday):**
   Java Streams assignment codes successfully implemented and added.
 
-## 📅 Week 7 (27 Jan 2026 – 31 Jan 2026)-
+## 📅 Week 7 (27 Jan 2026 – 30 Jan 2026)-
 
 - **27-jan-2026 (Tuesday):**
   Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.Two LeetCode problems have been successfully solved.
@@ -126,3 +126,8 @@
 - **30-jan-2026 (Friday):**
   Assignment focusing on implementing unit tests using JUnit to validate core Java logic and functionality is added.
   It covers exception handling, parameterized tests, lifecycle methods, and basic validation scenarios.
+
+## 📅 Week 8 (2 Feb 2026 – 7 Feb 2026)-
+
+- **2-feb-2026 (Monday):**
+  Reflections and Annotations Assignments codes implemented and added. CSV file handling assignment codes successfully added.
