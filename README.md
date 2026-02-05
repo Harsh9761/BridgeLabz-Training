@@ -134,3 +134,9 @@
 
 - **3-feb-2026 (Tuesday):**
   Json data Handling assignment codes implemented and added. Stream buzz and Factory hazard analyzer assignment code added.
+
+- **4-feb-2026 (Wednesday):**
+  Lambda-functions assignment codes implemented and added.
+
+- **5-feb-2026 (Thursday):**
+  Functional Interface assignment codes implemented and added. Scenario based question AeroVigil problem added.
