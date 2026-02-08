@@ -140,3 +140,9 @@
 
 - **5-feb-2026 (Thursday):**
   Functional Interface assignment codes implemented and added. Scenario based question AeroVigil problem added.
+
+- **6-feb-2026 (Friday):**
+  Collectors assignment codes implemented and added. Stream Api assignment codes implemented and added.
+
+- **7-feb-2026 (Saturday):**
+  Scenario based question Ocean Fleet problem added.
