@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 
 class Product {
     String name;
@@ -34,17 +35,17 @@ public class EcommerceSorting {
 
         // Sort by Price (Low to High)
         products.sort((p1, p2) -> Double.compare(p1.price, p2.price));
-        System.out.println("🔹 Sorted by Price:");
+        System.out.println(" Sorted by Price:");
         products.forEach(System.out::println);
 
         // Sort by Rating (High to Low)
         products.sort((p1, p2) -> Double.compare(p2.rating, p1.rating));
-        System.out.println("\n🔹 Sorted by Rating:");
+        System.out.println("\n Sorted by Rating:");
         products.forEach(System.out::println);
 
         // Sort by Discount (High to Low)
         products.sort((p1, p2) -> Double.compare(p2.discount, p1.discount));
-        System.out.println("\n🔹 Sorted by Discount:");
+        System.out.println("\n Sorted by Discount:");
         products.forEach(System.out::println);
     }
 }

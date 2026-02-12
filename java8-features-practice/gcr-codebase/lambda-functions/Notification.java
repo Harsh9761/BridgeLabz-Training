@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 import java.util.function.Predicate;
 class Alert {
     String type;
@@ -36,7 +37,7 @@ public class Notification {
         Predicate<Alert> userPreference =
                 emergencyFilter.or(medicationFilter);
 
-        System.out.println("🔔 Alerts shown to user:");
+        System.out.println("Alerts shown to user:");
         alerts.stream()
               .filter(userPreference)
               .forEach(System.out::println);

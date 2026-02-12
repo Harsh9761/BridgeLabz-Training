@@ -9,9 +9,9 @@ public class SmartHome {
     public static void main(String[] args) {
 
         Map<String, LightAction> triggers = Map.of(
-                "motion", () -> System.out.println("Motion → Lights ON"),
-                "night", () -> System.out.println("Night → Lights DIM"),
-                "voice", () -> System.out.println("Voice → Party Lights")
+                "motion", () -> System.out.println("Motion - Lights ON"),
+                "night", () -> System.out.println("Night - Lights DIM"),
+                "voice", () -> System.out.println("Voice - Party Lights")
         );
 
         triggers.get("motion").activate();
