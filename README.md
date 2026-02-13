@@ -153,3 +153,10 @@
   Multithreading assignment codes implemented and added. TestCase Scenario based code completed.
 
 - **11-feb-2026 (Wednesday):**
+  JDBC AND DBMS assignment codes implemented and added.
+  
+- **12-feb-2026 (Thursday):**
+  Java8 features codes updated and refactored. 
+
+- **13-feb-2026 (Friday):**
+  Online Course Manager Scenario-based code implemented and added.
