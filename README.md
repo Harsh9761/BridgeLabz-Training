@@ -160,3 +160,10 @@
 
 - **13-feb-2026 (Friday):**
   Online Course Manager Scenario-based code implemented and added.
+
+- **14-feb-2026 (Saturday):**
+  Disaster Relief Resource Allocation System Scenario based code added. Smart Water Tank Monitoring System Scenario based 
+  code implemented and added.
+
+## 📅 Week 10 (16 Feb 2026 – 21 Feb 2026)-
+  
