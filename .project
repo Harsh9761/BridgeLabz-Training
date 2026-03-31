@@ -15,6 +15,7 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<filteredResources>
 		<filter>
 <<<<<<< HEAD
@@ -69,4 +70,6 @@
 	</filteredResources>
 =======
 >>>>>>> multi-threading-practice
+=======
+>>>>>>> solution-designing-practice
 </projectDescription>
