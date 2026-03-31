@@ -5,7 +5,7 @@
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
+
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -15,14 +15,8 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 	<filteredResources>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 			<id>1767105438140</id>
 			<name></name>
 			<type>30</type>
@@ -53,20 +47,17 @@
 	<filteredResources>
 		<filter>
 			<id>1766037277684</id>
-=======
+
 			<id>1767882756465</id>
->>>>>>> dsa-practice
-=======
+
 			<id>1768902954540</id>
->>>>>>> collection-practice
-=======
+
 			<id>1770026483040</id>
->>>>>>> io-programming-practice
-=======
+
 	<filteredResources>
 		<filter>
 			<id>1770223146159</id>
->>>>>>> java8-features-practice
+
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -75,16 +66,9 @@
 			</matcher>
 		</filter>
 	</filteredResources>
-<<<<<<< HEAD
-=======
->>>>>>> multi-threading-practice
-=======
->>>>>>> solution-designing-practice
-=======
->>>>>>> java8-features-practice
-=======
+
 	</buildSpec>
 	<natures>
 	</natures>
->>>>>>> jdbc-practice
+
 </projectDescription>

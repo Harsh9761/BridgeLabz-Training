@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 	<classpathentry excluding="gcr-codebase/class_object/|gcr-codebase/class_object/|gcr-codebase/constructors/|gcr-codebase/constructors/|gcr-codebase/keywords/|gcr-codebase/keywords/|scenario-based/|scenario-based/|scenario-based/|gcr-codebase/inheritence/|gcr-codebase/inheritence/|scenario-based/|leet-code-codebase/|leet-code-codebase/|gcr-codebase/java-pillars/|gcr-codebase/java-pillars/|scenario-based/|leet-code-codebase/|scenario-based/|leet-code-codebase/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|scenario-based/" kind="src" path="oops-practice"/>
 	<classpathentry kind="src" path="oops-practice/gcr-codebase/addressbook"/>
-=======
->>>>>>> io-programming-practice
-=======
->>>>>>> multi-threading-practice
-=======
->>>>>>> solution-designing-practice
-=======
 	<classpathentry kind="src" path="java8-features-practice/scenario-based"/>
->>>>>>> java8-features-practice
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -24,33 +10,21 @@
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="core-java-practice/scenario-based"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
-=======
+
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
->>>>>>> dsa-practice
-=======
+
 	<classpathentry kind="src" path="collection-practice/scenario-based"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
->>>>>>> collection-practice
+
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
-=======
->>>>>>> io-programming-practice
-=======
->>>>>>> multi-threading-practice
-=======
->>>>>>> solution-designing-practice
-=======
->>>>>>> java8-features-practice
+
