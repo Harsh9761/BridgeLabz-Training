@@ -5,6 +5,7 @@
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -81,4 +82,9 @@
 >>>>>>> solution-designing-practice
 =======
 >>>>>>> java8-features-practice
+=======
+	</buildSpec>
+	<natures>
+	</natures>
+>>>>>>> jdbc-practice
 </projectDescription>
