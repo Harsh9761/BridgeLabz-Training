@@ -16,6 +16,7 @@
 	</natures>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<filteredResources>
 		<filter>
 <<<<<<< HEAD
@@ -60,6 +61,11 @@
 =======
 			<id>1770026483040</id>
 >>>>>>> io-programming-practice
+=======
+	<filteredResources>
+		<filter>
+			<id>1770223146159</id>
+>>>>>>> java8-features-practice
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -68,8 +74,11 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+<<<<<<< HEAD
 =======
 >>>>>>> multi-threading-practice
 =======
 >>>>>>> solution-designing-practice
+=======
+>>>>>>> java8-features-practice
 </projectDescription>
