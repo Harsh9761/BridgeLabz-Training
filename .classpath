@@ -2,8 +2,11 @@
 <classpath>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<classpathentry excluding="gcr-codebase/class_object/|gcr-codebase/class_object/|gcr-codebase/constructors/|gcr-codebase/constructors/|gcr-codebase/keywords/|gcr-codebase/keywords/|scenario-based/|scenario-based/|scenario-based/|gcr-codebase/inheritence/|gcr-codebase/inheritence/|scenario-based/|leet-code-codebase/|leet-code-codebase/|gcr-codebase/java-pillars/|gcr-codebase/java-pillars/|scenario-based/|leet-code-codebase/|scenario-based/|leet-code-codebase/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/address-book/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|gcr-codebase/addressbook/|scenario-based/" kind="src" path="oops-practice"/>
 	<classpathentry kind="src" path="oops-practice/gcr-codebase/addressbook"/>
+=======
+>>>>>>> io-programming-practice
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -11,6 +14,7 @@
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
+<<<<<<< HEAD
 
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
@@ -29,3 +33,5 @@
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
+=======
+>>>>>>> io-programming-practice
