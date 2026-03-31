@@ -16,6 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1767105438140</id>
 			<name></name>
 			<type>30</type>
@@ -46,6 +47,9 @@
 	<filteredResources>
 		<filter>
 			<id>1766037277684</id>
+=======
+			<id>1767882756465</id>
+>>>>>>> dsa-practice
 			<name></name>
 			<type>30</type>
 			<matcher>
