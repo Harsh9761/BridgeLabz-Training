@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # BridgeLabz-Training
 
 ## 📅 Week 1 (17 Dec 2025 – 20 Dec 2025)- 
@@ -176,3 +177,5 @@
   M1 Problems added in the Java8 features branch in Scenario based folder.
 =======
 >>>>>>> dsa-practice
+=======
+>>>>>>> collection-practice
